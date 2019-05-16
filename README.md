@@ -4,4 +4,4 @@ This algorithm has been submitted to the IET Computer Vision and is under review
 
 PinholeLensPOSIT.cpp is a test file. 
 
-You can use this function just   
+You can use this function just like PinholeLensPOSIT.cpp shows.
